@@ -4,7 +4,7 @@ Turn any boring text into a sarcastic masterpiece.
 
 ## 🧠 Example
 
-Input: I love programming
+Input: I love programming <br>
 Output: i LoVe pRoGrAmMiNg 🤡
 
 ## 💻 Run it
