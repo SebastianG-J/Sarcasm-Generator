@@ -22,7 +22,7 @@ i ReAlLy LoVe PyThOn PrOgRaMmInG 🤡
 ### Clone or download the repo
 
 ```bash
-git clone https://github.com/<your-username>/sarcasm-generator.git
+git clone https://github.com/SebastianG-J/Sarcasm-Generator.git
 cd sarcasm-generator
 ```
 
